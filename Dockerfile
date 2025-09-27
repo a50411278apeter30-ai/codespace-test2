@@ -25,4 +25,4 @@ ENV PORT=7860
 EXPOSE 7860
 
 # 실행
-CMD ["python", "-m", "main.py"]
+CMD ["python", "-m", "main"]
